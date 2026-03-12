@@ -4,10 +4,10 @@ This project analyzes student data and predicts performance using Machine Learni
 It includes preprocessing, visualization, regression, and classification.
 ## Problem statement
 A) Multinomial Classification
- Create performance categories (Low / Medium / High)
- Apply Multinomial Logistic Regression
- Evaluate using Accuracy & Confusion Matrix
+1. Create performance categories (Low / Medium / High)
+2. Apply Multinomial Logistic Regression
+3. Evaluate using Accuracy & Confusion Matrix
 
 B) Regression
- Predict final score using Linear Regression
- Evaluate using R², MAE, MSE
+1. Predict final score using Linear Regression
+2. Evaluate using R², MAE, MSE
